@@ -10,7 +10,7 @@ Estudante de Ciência da Computação apaixonada por tecnologia, com interesse e
 
 ---
 
-### Technologies
+### Tecnologias
 <br>
 
 <div align="center">
